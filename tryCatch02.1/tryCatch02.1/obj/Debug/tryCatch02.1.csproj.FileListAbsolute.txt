@@ -1,0 +1,10 @@
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\bin\Debug\tryCatch02.1.exe.config
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\bin\Debug\tryCatch02.1.exe
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\bin\Debug\tryCatch02.1.pdb
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02.1.csprojAssemblyReference.cache
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02._1.Form1.resources
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02._1.Properties.Resources.resources
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02.1.csproj.GenerateResource.cache
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02.1.csproj.CoreCompileInputs.cache
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02.1.exe
+C:\Users\Učenik 5\source\repos\tryCatch02.1\tryCatch02.1\obj\Debug\tryCatch02.1.pdb
